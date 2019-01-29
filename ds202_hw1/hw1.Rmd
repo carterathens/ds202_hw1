@@ -62,6 +62,6 @@ nickname       Eggshell Igloo
 
 7. Register a [GitHub](https://www.github.com) account. What is your username?
 
-carterathens
+cmathens
 
 Now Knit the finished Homework 1 one last time, and you are done! The actual submission (to a GitHub repository) will take place in Lab 1.
